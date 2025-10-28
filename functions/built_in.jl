@@ -18,3 +18,4 @@ age=readline()
 
 println(age)
 println(typeof(age))
+
